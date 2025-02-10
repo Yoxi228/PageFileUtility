@@ -1,0 +1,34 @@
+# Visual Studio файлы
+.vscode/
+.vs/
+*.sln
+*.suo
+*.vcxproj.user
+*.VC.db
+*.ncb
+*.pdb
+*.ipch
+*.ilk
+*.aps
+*.cache
+*.tlog
+*.log
+*.obj
+*.o
+*.idb
+*.exp
+*.lib
+
+# Бинарники
+*.exe
+*.dll
+*.so
+*.a
+*.out
+
+# CMake файлы
+CMakeFiles/
+CMakeCache.txt
+build/
+cmake-build-debug/
+cmake-build-release/
